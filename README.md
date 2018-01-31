@@ -1,6 +1,6 @@
 # Supplemental Material for IJCAI submission of GIGL paper
 
-Containing 4 examples, Monster, Quiz, LSystemTree and Dungeon_BSP. In each example:
+Containing 3 examples, Monster, LSystemTree and Dungeon_BSP. In each example:
 
 1. *.xc is the source file in GIGL
 2. *.generated.h is the C++ file that is translated from GIGL using an automated translator
