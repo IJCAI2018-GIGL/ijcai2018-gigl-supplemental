@@ -1,0 +1,26 @@
+﻿  GiglConfig.cpp
+  RandConfig.cpp
+  StrConfig.cpp
+  DungeonSpace.cpp
+DungeonSpace.cpp(188): warning C4305: 'argument': truncation from 'double' to 'float'
+DungeonSpace.cpp(192): warning C4305: 'argument': truncation from 'double' to 'float'
+DungeonSpace.cpp(208): warning C4305: 'argument': truncation from 'double' to 'float'
+DungeonSpace.cpp(212): warning C4305: 'argument': truncation from 'double' to 'float'
+DungeonSpace.cpp(228): warning C4305: 'argument': truncation from 'double' to 'float'
+DungeonSpace.cpp(232): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(703): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(713): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(853): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(863): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(925): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(931): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(992): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(998): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\research\cs\pcg\rpgitemgeneration\ijcai2018-gigl-submission-supplementary\dungeon_bsp\dungeon_bsp\dungeon.generated.h(1042): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  355 of 361 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dungeon_BSP.vcxproj -> F:\Research\CS\PCG\RPGItemGeneration\ijcai2018-gigl-submission-supplementary\Dungeon_BSP\Release\Dungeon_BSP.exe
